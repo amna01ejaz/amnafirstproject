@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os, sys
-
+# ahmed ka comment idr aega
 
 def main():
     """Run administrative tasks."""
